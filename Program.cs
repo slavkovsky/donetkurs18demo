@@ -14,7 +14,7 @@ namespace Termin10Primer04
 
         static void Metoda02()
         {
-            // Prazna metoda
+            Console.WriteLine("Cao cao");
         }
 
         static void Metoda03()
